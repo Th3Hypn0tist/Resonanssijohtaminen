@@ -52,5 +52,8 @@ Resonance Leadership määrittelee johtamisen operatiiviseksi rakenteeksi, jossa
 16. [16. Vähemmän johtamista. Enemmän vaikutusta.](16-Epilogi.md)
 17. [17. Sanasto — Operatiiviset määritelmät](17-Sanasto.md)
 
+## Lisenssi
+Kaikki oikeudet pidätetään, mutta viiteoikeus lähteellä kuuluu asiaan.
+
 ## Start with Chapter 1
 Aloita tästä: [01. Johdanto: Miksi maailma ei enää tottele johtamista](01-Johdanto.md)
