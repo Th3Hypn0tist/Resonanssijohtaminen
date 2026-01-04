@@ -34,4 +34,4 @@ Resonance Leadership on ohjaava periaate, joka määrittää suunnan ja päätö
 Suositus on edetä luvusta 01 lukuun 16, koska käsitteet rakentuvat toistensa päälle ja niiden välinen riippuvuus on olennainen.
 
 ## License
-TBD
+Kaikki oikdet pidätetään. Viittaus lähteellä on normalia toimintaa.
