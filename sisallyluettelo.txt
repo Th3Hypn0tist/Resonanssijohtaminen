@@ -3,129 +3,269 @@ KIRJAN TYÖNIMI
 RESONANCE LEADERSHIP
 How Structure, Intelligence and Markets Align
 
+TARKOITUS:
+Tämä kirja määrittelee Resonanssijohtamisen järjestelmällisenä,
+operatiivisena ja testattavana johtamismallina.
+Se ei kuvaa johtamistyyliä, vaan kokonaisen toiminta-arkkitehtuurin,
+jossa rakenne, päätöksenteko, äly ja markkinapalaute kytkeytyvät
+yhdeksi itseään korjaavaksi järjestelmäksi.
+
 ────────────────────────────────────────────
 OSA I — PERUSTA: MIKSI RESONANSSI
 ────────────────────────────────────────────
 
 1. Johdanto: Miksi maailma ei enää tottele johtamista
-   Rooli:
-   - Asettaa ongelman
-   - Kuvaa miksi perinteinen johtaminen, SaaS-ajattelu ja mittarointi epäonnistuvat
-   - Luo lukijalle tarve resonanssiajattelulle
+   Tarkoitus:
+   - Määrittää nykyjohtamisen rakenteellinen kriisi
+   - Osoittaa miksi hierarkia, karisma, KPI-mittarointi ja SaaS-optimointi epäonnistuvat
+   - Siirtää ongelma ihmisistä rakenteisiin
+   - Luoda tarve resonanssipohjaiselle ajattelulle
+
+   Keskeiset käsitteet:
+   - Rakenteellinen kuormitus
+   - Näennäistehokkuus
+   - Ohjauksen ja todellisuuden irtautuminen
 
 2. Resonanssi ilmiönä (ei metaforana)
-   Rooli:
+   Tarkoitus:
    - Ankkuroi resonanssin fysiikkaan ja järjestelmäteoriaan
-   - Erottelee resonanssin "inspiraatiosta" ja "kulttuuripuheesta"
-   - Tekee käsitteestä teknisesti vakavasti otettavan
+   - Erottelee resonanssin inspiraatiopuheesta ja kulttuurimetaforista
+   - Määrittelee resonanssin ajoituksena, vahvistuksena ja palautteena
+   - Luo teknisesti vakavasti otettavan käsitteen koko kirjalle
+
+   Keskeiset käsitteet:
+   - Takaisinkytkentä
+   - Vaiheistus
+   - Vahvistus vs vaimennus
+   - Lineaarinen vs epälineaarinen järjestelmä
 
 3. Resonanssijohtaminen – ydinperiaate
-   Rooli:
-   - Määrittelee resonanssijohtamisen täsmällisesti
-   - Erottelee sen johtamistyyleistä
-   - Lukitsee kirjan keskeisen teesin
+   Tarkoitus:
+   - Määrittelee Resonanssijohtamisen täsmällisesti
+   - Erottelee sen johtamistyyleistä, kulttuurimalleista ja persoonajohtamisesta
+   - Lukitsee teesin: johtaminen = rakenteiden ja päätöksenteon virittäminen
+   - Määrittää mitä Resonanssijohtaminen ei ole
+
+   Keskeiset käsitteet:
+   - Johtaminen rakenteena
+   - Päätöksenteko resonanssissa
+   - Vastuun vapauttaminen
 
 ────────────────────────────────────────────
 OSA II — RAKENNE: MIKÄ MAHDOLLISTAA RESONANSSIN
 ────────────────────────────────────────────
 
 4. SXaS — Structure as a Service
-   Rooli:
-   - Esittelee rakenteen ensisijaisuuden työkaluihin nähden
-   - Näyttää miksi ilman rakennetta resonanssi hajoaa
-   - Luo perustan skaalautuvuudelle ja poistuttavuudelle
+   Tarkoitus:
+   - Määrittelee rakenteen ensisijaisuuden työkaluihin ja ihmisiin nähden
+   - Kuvaa miksi ilman rakennetta resonanssi hajoaa
+   - Esittelee omistettavuuden, poistuttavuuden ja uudelleenkäytettävyyden
+   - Luo perustan skaalautuvuudelle ilman henkilöriskejä
+
+   Keskeiset käsitteet:
+   - Rakenne ennen työkaluja
+   - Poistuttavuus (exitability)
+   - Rakenteellinen kestävyys
 
 5. Miksi ihmiset eivät skaalaudu, mutta rakenteet skaalautuvat
-   Rooli:
-   - Purkaa henkilösankaruuden harhan
-   - Valmistaa lukijan hyväksymään rakenteellisen ajattelun
-   - Sitouttaa SXaS-ajatteluun käytännön tasolla
+   Tarkoitus:
+   - Purkaa henkilösankaruuden ja asiantuntijakeskeisyyden harhan
+   - Näyttää miksi osaaminen ilman rakennetta ei kumuloidu
+   - Valmistaa lukija hyväksymään rakenteellisen ajattelun
+   - Kytkee yksilön osaksi järjestelmää, ei sen kantajaksi
+
+   Keskeiset käsitteet:
+   - Bus factor
+   - Implisiittinen tieto
+   - Rakenteellinen muistivuoto
 
 ────────────────────────────────────────────
 OSA III — TEHO: MITEN ARVO SYNTYY
 ────────────────────────────────────────────
 
 6. MaxROI — Maximum Return on Intelligence
-   Rooli:
+   Tarkoitus:
    - Määrittelee älyn tuoton mittaamisen
-   - Erottelee työn, vaivan ja arvon
-   - Tekee resonanssista taloudellisesti perustellun
+   - Lukitsee kolme ydinmittaria:
+     • raha
+     • luontovaikutus
+     • hyvinvointivaikutus
+   - Erottelee vaikutuksen työstä, vaivasta ja näennäistehokkuudesta
+   - Määrittää MaxROI:n mittariksi, ei johtamismenetelmäksi
+
+   Keskeiset käsitteet:
+   - Älyn kumuloituminen
+   - Viivästetty kustannus
+   - Vaikutus vs effort
 
 7. Näennäistehokkuuden anatomia
-   Rooli:
-   - Paljastaa miksi kiire ja aktiivisuus valehtelevat
-   - Näyttää MaxROI:n käytännön suodattimena
-   - Antaa lukijalle kriteerit lopettaa turha työ
+   Tarkoitus:
+   - Paljastaa miksi kiire, aktiviteetti ja mittarit valehtelevat
+   - Näyttää miten väärät mittarit tuhoavat MaxROI:n
+   - Antaa lukijalle kriteerit tunnistaa ja lopettaa turha työ
+   - Valmistaa päätöksenteon puhdistamiseen
+
+   Keskeiset käsitteet:
+   - Busy work
+   - Mittarivääristymä
+   - Tehokkuusilluusio
 
 ────────────────────────────────────────────
-OSA IV — HALLINTA: KUKA PÄÄTTÄÄ JA KUKA VASTAA
+OSA IV — PÄÄTÖKSENTEKO: MISSÄ JOHTAMINEN TAPAHTUU
 ────────────────────────────────────────────
 
-8. AIGM — Governance ilman byrokratiaa
-   Rooli:
-   - Esittelee AIGM:n vastuumallina, ei valtarakenteena
-   - Ratkaisee AI:n, ihmisten ja päätöksenteon yhteispelin
-   - Estää resonanssia muuttumasta kaaokseksi
+8. Päätöksenteko monimutkaisissa järjestelmissä
+   Tarkoitus:
+   - Siirtää fokuksen suunnittelusta ja ohjauksesta päätöksiin
+   - Erottelee signaalin kohinasta
+   - Määrittelee ajoituksen ja intervention minimoinnin
+   - Kuvaa päätöksenteon vaikutuksen koko järjestelmään
 
-9. Vastuu, luottamus ja päätöksenteon nopeus
-   Rooli:
-   - Syventää AIGM:n käytännön vaikutukset
-   - Näyttää miksi selkeys lisää vapautta
-   - Yhdistää johtamisen ja governance-ajattelun
+   Keskeiset käsitteet:
+   - Signaali vs kohina
+   - Vipuvaikutus
+   - Päätösten peruuttamattomuus
 
-────────────────────────────────────────────
-OSA V — TODISTUS: MARKKINA PALJASTAA TOTUUDEN
-────────────────────────────────────────────
+9. Palvelujohtajuus — päätöksenteon mahdollistaminen
+   Tarkoitus:
+   - Lukitsee palvelujohtajuuden ainoaksi Resonanssijohtamisen johtamismuodoksi
+   - Määrittelee johtamisen esteiden poistamisena
+   - Vapauttaa vastuun oikeaan paikkaan
+   - Erottelee palvelujohtajuuden pehmeästä johtamisretoriikasta
 
-10. FreeMarket — Todellisuuden palautejärjestelmä
-    Rooli:
-    - Esittelee FreeMarketin rakenteellisena reitityksenä
-    - Erottaa sen keikkapörsseistä ja markkinapaikoista
-    - Tuo koko mallin testattavaksi todellisuudessa
-
-11. Miksi markkina ei rankaise, vaan suodattaa
-    Rooli:
-    - Purkaa moraalisen markkinapuheen
-    - Näyttää miten toimiva rakenne palkitaan luonnollisesti
-    - Viimeistelee järjestelmän suljetun palautesilmukan
+   Keskeiset käsitteet:
+   - Esteiden poisto
+   - Vastuun vapauttaminen
+   - Johtaja päätöksenteon palvelijana
 
 ────────────────────────────────────────────
-OSA VI — SYNERGIA: MIKSI KOKONAISUUS ON ENEMMÄN
+OSA V — HALLINTA JA HR: KUKA PÄÄTTÄÄ, KUKA TOIMII
 ────────────────────────────────────────────
 
-12. Miksi mikään osa ei toimi yksinään
-    Rooli:
-    - Kokoaa SXaS, MaxROI, AIGM ja FreeMarket yhdeksi järjestelmäksi
+10. AIGM — Governance ilman byrokratiaa
+    Tarkoitus:
+    - Esittelee AIGM:n vastuun ja päätösvallan jakomallina
+    - Mahdollistaa autonomian ilman kaaosta
+    - Lukitsee päätösvallan ja vastuun yhteen
+    - Tukee palvelujohtajuutta ilman mikromanagerointia
+
+    Keskeiset käsitteet:
+    - Vastuu ennen valtaa
+    - Eskalaatiot
+    - Roolit ilman hierarkiaa
+
+11. FreeMarket — rekrytointimarkkinapaikka ja HR:n rakenne
+    Tarkoitus:
+    - Määrittelee FreeMarketin rekrytointimarkkinapaikkana, HR-työkaluna ja ajatusmallina
+    - Kuvaa miten sama rakenne toimii:
+      • hakija–työnantaja-mallissa
+      • keikkataloudessa
+      • organisaation sisäisenä työkaluna
+    - Kytkee osaamisen, vastuun ja palautteen suoraan yhteen
+
+    Keskeiset käsitteet:
+    - Ongelmapohjainen rekry
+    - Toimintaperusteinen arviointi
+    - Nopea sisään–ulos
+
+12. Miksi HR ei arvioi ihmisiä, vaan rakenteita
+    Tarkoitus:
+    - Purkaa CV-, titteli- ja potentiaalikeskeisen HR-ajattelun
+    - Näyttää miksi toiminta paljastaa osaamisen paremmin kuin ennakkoarvio
+    - Siirtää HR:n roolin arvioijasta rakenteen ylläpitäjäksi
+
+    Keskeiset käsitteet:
+    - Rakenteellinen vinouma
+    - Portinvartijaharha
+    - Palautesilmukka HR:ssä
+
+────────────────────────────────────────────
+OSA VI — TODISTUS: TODELLISUUS TESTAA MALLIN
+────────────────────────────────────────────
+
+13. Miksi markkina ei rankaise, vaan suodattaa
+    Tarkoitus:
+    - Kuvaa markkinan ja työn todellisuuden neutraalina palautemekanismina
+    - Näyttää miten toimivat rakenteet vahvistuvat ja heikot poistuvat
+    - Sulkee järjestelmän ulkoisen palautesilmukan
+
+    Keskeiset käsitteet:
+    - Selektio
+    - Todellisuuspalautteen viive
+    - Rakenteellinen oppiminen
+
+────────────────────────────────────────────
+OSA VII — SYNERGIA JA SOVELTAMINEN
+────────────────────────────────────────────
+
+14. Miksi mikään osa ei toimi yksinään
+    Tarkoitus:
+    - Kokoaa SXaS:n, MaxROI:n, päätöksenteon, palvelujohtajuuden, AIGM:n ja FreeMarketin
     - Näyttää keskinäiset riippuvuudet
-    - Estää mallin osittaiskäytön vääristymät
+    - Estää mallin osittaiskäytön ja väärinymmärrykset
 
-13. Resonanssiorganisaation malli
-    Rooli:
-    - Antaa lukijalle kokonaiskuvan toimivasta järjestelmästä
+    Keskeiset käsitteet:
+    - Järjestelmäriippuvuus
+    - Paikallinen optimointi vs kokonaisuus
+
+15. Resonanssiorganisaation malli
+    Tarkoitus:
+    - Antaa kokonaiskuvan toimivasta resonanssiorganisaatiosta
     - Mahdollistaa soveltamisen eri konteksteihin
-    - Toimii käytännön viitemallina
+    - Toimii käytännön viitemallina ja lähtöpisteenä toteutuksille
 
-────────────────────────────────────────────
-OSA VII — SOVELTAMINEN
-────────────────────────────────────────────
-
-14. Käytännön käyttöönotto: mistä aloittaa
-    Rooli:
-    - Tekee mallista lähestyttävän
-    - Estää yliyrittämisen
-    - Ohjaa oikeaan järjestykseen
-
-15. Johtaja resonanssissa
-    Rooli:
-    - Määrittelee johtajan roolin uudelleen
-    - Poistaa sankarimallin
-    - Päättää kirjan ihmisläheisesti mutta rakenteellisesti
+    Keskeiset käsitteet:
+    - Referenssiarkkitehtuuri
+    - Sovellettavuus
 
 ────────────────────────────────────────────
 EPILOGI
 ────────────────────────────────────────────
 
 16. Vähemmän johtamista. Enemmän vaikutusta.
-    Rooli:
-    - Tiivistää koko kirjan yhteen ajatukseen
-    - Jättää lukijan oikeaan vaiheeseen, ei hypeen
+    Tarkoitus:
+    - Tiivistää koko kirjan yhteen ydinlauseeseen
+    - Jättää lukijan toiminnan, ei uskomusten tasolle
+    - Sulkee kirjan ilman hypeä tai lupauksia
+────────────────────────────────────────────
+OSA VIII — SANASTO JA KÄSITTEELLINEN LUKITUS
+────────────────────────────────────────────
+
+17. Sanasto — Operatiiviset määritelmät
+    Tarkoitus:
+    - Lukitsee koko kirjan käsitteet yksiselitteisesti
+    - Estää metaforisen, moraalisen ja löysän tulkinnan
+    - Mahdollistaa mallin oikean soveltamisen ilman tekijän läsnäoloa
+    - Toimii viite- ja tarkistuspisteenä päätöksenteossa, HR:ssä ja johdossa
+
+    Rajaus:
+    - Määritelmät ovat operatiivisia, eivät filosofisia
+    - Jokainen termi on määritelty siten, että se voidaan tunnistaa toiminnassa
+    - Sanasto ei laajenna mallia, vaan sulkee sen
+
+    Sisältö (luonnollinen rakenne):
+    - Resonanssi
+    - Resonanssijohtaminen
+    - Rakenne (Structure)
+    - SXaS (Structure as a Service)
+    - Päätöksenteko
+    - Palvelujohtajuus
+    - MaxROI (Maximum Return on Intelligence)
+    - Raha (MaxROI-ydinmittari)
+    - Luontovaikutus (MaxROI-ydinmittari)
+    - Hyvinvointivaikutus (MaxROI-ydinmittari)
+    - AIGM (AI Governance Model)
+    - Vastuu
+    - Palaute
+    - FreeMarket
+    - Rekrytointimarkkinapaikka (FreeMarket-kontekstissa)
+    - HR-rakenne
+    - Näennäistehokkuus
+    - Poistuttavuus (Exitability)
+    - Skaalautuvuus
+    - Järjestelmä
+
+    Käyttöohje:
+    - Jos jokin luku tuntuu ristiriitaiselta, palaa sanastoon
+    - Jos soveltaminen epäonnistuu, tarkista termien ymmärrys ennen rakenteen muuttamista
+    - Sanasto on ensisijainen tulkintalähde koko kirjaan nähden
