@@ -1,0 +1,131 @@
+KIRJAN TYÖNIMI
+==============
+RESONANCE LEADERSHIP
+How Structure, Intelligence and Markets Align
+
+────────────────────────────────────────────
+OSA I — PERUSTA: MIKSI RESONANSSI
+────────────────────────────────────────────
+
+1. Johdanto: Miksi maailma ei enää tottele johtamista
+   Rooli:
+   - Asettaa ongelman
+   - Kuvaa miksi perinteinen johtaminen, SaaS-ajattelu ja mittarointi epäonnistuvat
+   - Luo lukijalle tarve resonanssiajattelulle
+
+2. Resonanssi ilmiönä (ei metaforana)
+   Rooli:
+   - Ankkuroi resonanssin fysiikkaan ja järjestelmäteoriaan
+   - Erottelee resonanssin "inspiraatiosta" ja "kulttuuripuheesta"
+   - Tekee käsitteestä teknisesti vakavasti otettavan
+
+3. Resonanssijohtaminen – ydinperiaate
+   Rooli:
+   - Määrittelee resonanssijohtamisen täsmällisesti
+   - Erottelee sen johtamistyyleistä
+   - Lukitsee kirjan keskeisen teesin
+
+────────────────────────────────────────────
+OSA II — RAKENNE: MIKÄ MAHDOLLISTAA RESONANSSIN
+────────────────────────────────────────────
+
+4. SXaS — Structure as a Service
+   Rooli:
+   - Esittelee rakenteen ensisijaisuuden työkaluihin nähden
+   - Näyttää miksi ilman rakennetta resonanssi hajoaa
+   - Luo perustan skaalautuvuudelle ja poistuttavuudelle
+
+5. Miksi ihmiset eivät skaalaudu, mutta rakenteet skaalautuvat
+   Rooli:
+   - Purkaa henkilösankaruuden harhan
+   - Valmistaa lukijan hyväksymään rakenteellisen ajattelun
+   - Sitouttaa SXaS-ajatteluun käytännön tasolla
+
+────────────────────────────────────────────
+OSA III — TEHO: MITEN ARVO SYNTYY
+────────────────────────────────────────────
+
+6. MaxROI — Maximum Return on Intelligence
+   Rooli:
+   - Määrittelee älyn tuoton mittaamisen
+   - Erottelee työn, vaivan ja arvon
+   - Tekee resonanssista taloudellisesti perustellun
+
+7. Näennäistehokkuuden anatomia
+   Rooli:
+   - Paljastaa miksi kiire ja aktiivisuus valehtelevat
+   - Näyttää MaxROI:n käytännön suodattimena
+   - Antaa lukijalle kriteerit lopettaa turha työ
+
+────────────────────────────────────────────
+OSA IV — HALLINTA: KUKA PÄÄTTÄÄ JA KUKA VASTAA
+────────────────────────────────────────────
+
+8. AIGM — Governance ilman byrokratiaa
+   Rooli:
+   - Esittelee AIGM:n vastuumallina, ei valtarakenteena
+   - Ratkaisee AI:n, ihmisten ja päätöksenteon yhteispelin
+   - Estää resonanssia muuttumasta kaaokseksi
+
+9. Vastuu, luottamus ja päätöksenteon nopeus
+   Rooli:
+   - Syventää AIGM:n käytännön vaikutukset
+   - Näyttää miksi selkeys lisää vapautta
+   - Yhdistää johtamisen ja governance-ajattelun
+
+────────────────────────────────────────────
+OSA V — TODISTUS: MARKKINA PALJASTAA TOTUUDEN
+────────────────────────────────────────────
+
+10. FreeMarket — Todellisuuden palautejärjestelmä
+    Rooli:
+    - Esittelee FreeMarketin rakenteellisena reitityksenä
+    - Erottaa sen keikkapörsseistä ja markkinapaikoista
+    - Tuo koko mallin testattavaksi todellisuudessa
+
+11. Miksi markkina ei rankaise, vaan suodattaa
+    Rooli:
+    - Purkaa moraalisen markkinapuheen
+    - Näyttää miten toimiva rakenne palkitaan luonnollisesti
+    - Viimeistelee järjestelmän suljetun palautesilmukan
+
+────────────────────────────────────────────
+OSA VI — SYNERGIA: MIKSI KOKONAISUUS ON ENEMMÄN
+────────────────────────────────────────────
+
+12. Miksi mikään osa ei toimi yksinään
+    Rooli:
+    - Kokoaa SXaS, MaxROI, AIGM ja FreeMarket yhdeksi järjestelmäksi
+    - Näyttää keskinäiset riippuvuudet
+    - Estää mallin osittaiskäytön vääristymät
+
+13. Resonanssiorganisaation malli
+    Rooli:
+    - Antaa lukijalle kokonaiskuvan toimivasta järjestelmästä
+    - Mahdollistaa soveltamisen eri konteksteihin
+    - Toimii käytännön viitemallina
+
+────────────────────────────────────────────
+OSA VII — SOVELTAMINEN
+────────────────────────────────────────────
+
+14. Käytännön käyttöönotto: mistä aloittaa
+    Rooli:
+    - Tekee mallista lähestyttävän
+    - Estää yliyrittämisen
+    - Ohjaa oikeaan järjestykseen
+
+15. Johtaja resonanssissa
+    Rooli:
+    - Määrittelee johtajan roolin uudelleen
+    - Poistaa sankarimallin
+    - Päättää kirjan ihmisläheisesti mutta rakenteellisesti
+
+────────────────────────────────────────────
+EPILOGI
+────────────────────────────────────────────
+
+16. Vähemmän johtamista. Enemmän vaikutusta.
+    Rooli:
+    - Tiivistää koko kirjan yhteen ajatukseen
+    - Jättää lukijan oikeaan vaiheeseen, ei hypeen
